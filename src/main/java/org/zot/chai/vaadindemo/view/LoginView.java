@@ -10,6 +10,7 @@ public class LoginView extends VerticalLayout {
         var form = new LoginForm();
         form.setAction("login");
         add(form);
+        setAlignItems(Alignment.CENTER);
     }
 
 }

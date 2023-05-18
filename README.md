@@ -8,6 +8,8 @@ $ mvn clean install
 ```bash
 $ mvn spring-boot:run
 ```
+### Usage
+Access url: localhost:8080
 
 Default user: java / scala / kotlin
 
